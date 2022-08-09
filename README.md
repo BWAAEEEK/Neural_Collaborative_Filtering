@@ -12,5 +12,9 @@ Pytorch로 NCF 구현
 * embedding size: 100
 * num_layer: 3
 * hidden_size = 1024, 128, 64
+* learning_rate = 0.001
+* batch size: 1000
+
+
 
 " linear layer에 activation function 적용 x "
